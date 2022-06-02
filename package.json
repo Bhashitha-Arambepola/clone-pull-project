@@ -1,0 +1,13 @@
+{
+  "name": "clone-pull",
+  "version": "1.0.0",
+  "source": ["src/index.html"],
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.6.0"
+  }
+}
